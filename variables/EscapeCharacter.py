@@ -1,0 +1,10 @@
+a = 'Python Tutorial'
+print('\n', a)
+print('\t', a)
+print('\r', a)
+print('  \b', a)
+print('\f', a)
+print("\'" + a + "\'")
+print('\"' + a + '\"')
+print('\\', a)
+print('\v', a)
